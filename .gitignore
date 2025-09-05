@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+
+# builds
+.next/
+out/
+dist/
+
+# env & db
+.env
+*.sqlite
+*.db
+
+# OS/editor
+.DS_Store
+.vscode/
+
